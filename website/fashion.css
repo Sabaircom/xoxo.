@@ -1,0 +1,11 @@
+*{
+    font-family: 'Outfit', sans-serif;
+}
+.pullstop{
+    color: #19C880;
+}
+.menubar{
+    display: inline-flex ;
+    flex-direction: row;
+    
+}
